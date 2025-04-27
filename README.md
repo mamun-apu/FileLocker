@@ -1,6 +1,6 @@
 # File Locker Application
 
-File Locker is a Java-based application that allows users to securely hide and unhide files. The application provides a simple and intuitive GUI for users to sign up, log in, and manage their hidden files.
+File Locker is a desktop-based application that allows users to securely hide and unhide files using Java. The application provides a simple and intuitive GUI for users to sign up, log in, and manage their hidden files.
 
 ## Features
 
